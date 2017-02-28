@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (In this assignment we edited a tax calculator to be able to estimate your taxes.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(Rhttps://nicolegiana.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
 1. (Learned how to use event handlers like the computations carried out when the calculate tax button is clicked.)
